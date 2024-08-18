@@ -10,7 +10,7 @@ def getVideoSource(source, width, height):
 
 def main():
     videoSourcePath = "/home/yashaswani/Documents/the_converter_hub/ts_live.mp4"
-    audioSourcePath = "/home/yashaswani/Documents/the_converter_hub/ts_live.mp4"
+    audioSourcePath = "/home/yashaswani/Documents/the_converter_hub/pantera_domination.mp3"
     camera = getVideoSource(videoSourcePath, 720, 480)
     player = MediaPlayer(audioSourcePath)
 
