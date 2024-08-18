@@ -2,7 +2,7 @@
   "name": "the_converter_hub",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "main.py",
   "config": {
     "commitizen": {
       "path": "git-cz"
