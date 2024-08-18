@@ -1,0 +1,21 @@
+{
+  "name": "the_converter_hub",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "config": {
+    "commitizen": {
+      "path": "git-cz"
+    }
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cz": ""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "git-cz": "^4.9.0"
+  }
+}
